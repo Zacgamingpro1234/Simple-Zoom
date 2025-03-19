@@ -1,0 +1,10 @@
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\bin\Debug\net35\SimpleZoom.dll
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\bin\Debug\net35\SimpleZoom.pdb
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\obj\Debug\net35\SimpleZoom.csproj.AssemblyReference.cache
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\obj\Debug\net35\MyPluginInfo.cs
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\obj\Debug\net35\SimpleZoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\obj\Debug\net35\SimpleZoom.AssemblyInfoInputs.cache
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\obj\Debug\net35\SimpleZoom.AssemblyInfo.cs
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\obj\Debug\net35\SimpleZoom.csproj.CoreCompileInputs.cache
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\obj\Debug\net35\SimpleZoom.dll
+C:\Users\zacve\Downloads\BepInExMods\SlimeRanchr\SimpleZoom\obj\Debug\net35\SimpleZoom.pdb
